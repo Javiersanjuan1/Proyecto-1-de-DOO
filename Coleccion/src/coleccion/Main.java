@@ -21,10 +21,8 @@ public class Main {
 
             switch (opcion) {
                 case 1:
-                    // Añadir lógica para crear y añadir una moneda a la colección
                     break;
                 case 2:
-                    // Añadir lógica para crear y añadir un sello a la colección
                     break;
                 case 3:
                     coleccion.mostrarMonedas();
